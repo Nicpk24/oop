@@ -1,0 +1,7 @@
+stack and q operations:
+		
+	
+test all abstract methods in the listADT file given
+ArrayList test cases: test to pass and fail
+	append, add at index, replace at index, clearing all elements, getting an element, finding an element
+
