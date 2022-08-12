@@ -1,0 +1,5 @@
+The sorting algorithm I made is called Clear sort. 
+This algorithm will replace all the values in the list to sort and replace them with empty, or 0 values. 
+This is done by looping through the list and setting each value to a new cone that is cast to reference a polygon object. 
+This looping structire creates a space complexity of O(n) since the algorithm needs to store the same number of elements as there are in the list. 
+The algorithm also has a time complexity of O(n) because there is a direct linear relationship between the time for each step the number of items in the list.
